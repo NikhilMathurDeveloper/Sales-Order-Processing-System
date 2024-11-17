@@ -1,0 +1,18 @@
+
+
+                            Subject: Report: Info in regards to -Product Demand -Client Orders -Measure of averages 
+
+                            Frequent Orders: [(4, 'FizzyDrink', 3, 'Very Small'), (5, 'Spicy Chips', 2, 'Very Small'), (2, 'Turnips', 2, 'Very Small'), (11, None, 1, 'Very Small'), (3, 'Chicken and Rice', 1, 'Very Small')]
+
+                            Number of orders: [(9,)]
+
+                            Average Quantity: [(16.22222222222222,)]
+
+                            Department : [(5, 2, 'NorthEndMart', 'Very Low'), (5, 2, 'SouthMart', 'Very Low'), (30, 2, 'SouthMart', 'Medium'), (50, 2, 'SouthMart', 'Large'), (5, 2, 'WestMart', 'Very Low'), (5, 2, None, 'Very Low'), (5, 2, 'WestMart', 'Very Low'), (21, 2, 'WestMart', 'Medium'), (20, 2, 'WinsdsorSide', 'Medium')]
+
+                            Frequent Departments: [('Snacks', 2), ('Frozen Meats', 2), ('Ready Made Meals', 1), ('Beverages', 1), ('Vegetables', 1)]
+
+
+                            
+
+                            
